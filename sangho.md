@@ -90,7 +90,7 @@ system security, hardware security, and web security.
   * __Sangho Lee__ and Jong Kim
   * _Computer Communications_, vol. 36(3), pp. 320-332, February 2013
 
-### 2011-2012
+### 2012
 * __DRMFS: A File System Layer for Transparent Access Semantics of DRM-protected Contents__ \[[paper][DRMFS]\]
   * __Sangho Lee__, Hay-Rim Lee, Seungkwang Lee, and Jong Kim
   * _Journal of Systems and Software_, vol. 85(5), pp. 1058-1066, May 2012
@@ -98,7 +98,8 @@ system security, hardware security, and web security.
 * __WarningBird: Detecting Suspicious URLs in Twitter Stream__ \[[paper][WARNINGBIRD] | [slides][WARNINGBIRD-SLIDES]\]
   * __Sangho Lee__ and Jong Kim
   * _19th Network and Distributed System Security Symposium (__NDSS 2012__)_, San Diego, California, USA, February 5-8, 2012
-  * &nbsp;
+
+### 2011
 * __Spam Filtering in Twitter using Sender-Receiver Relationship__ \[[paper][SPAM]\]
   * Jonghyuk Song, __Sangho Lee__, and Jong Kim
   * _14th International Symposium on Recent Advances in Intrusion Detection (__RAID 2011__)_, Menlo Park, California, USA, September 20-21, 2011
