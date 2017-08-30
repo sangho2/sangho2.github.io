@@ -6,7 +6,7 @@ Postdoctoral Fellow
 
 ## About Me 
 I am a Postdoctoral Fellow at Georgia Tech working with 
-[Prof. Wenke Lee][WENKE] and [Prof. Taesoo Kim][TAESOO].
+[Prof. Taesoo Kim][TAESOO] and [Prof. Wenke Lee][WENKE].
 
 Before joining Georgia Tech 
 I was a Post-doctoral Research Associate at 
