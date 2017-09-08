@@ -18,11 +18,12 @@ HTML_STR = '''
       });
     </script>
     <style>
-      body { font-family: arial; }
+      body { font-family: verdana; }
       h1 { color: midnightblue; }
       h2 { color: midnightblue; }
       h3 { color: midnightblue; }
-      ul, ol { list-style: none; margin-left: 1em; padding: 0px; }
+      a:link, a:visited, a:visited:hover, a:hover, a:active { color: indianred; }
+      ul { list-style: none; margin-left: 0.5em; padding: 0px; }
     </style>
   </head>
 

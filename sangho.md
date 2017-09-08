@@ -20,7 +20,7 @@ system security, hardware security, and web security.
 \[[Curriculum Vitae][CV] | [Google Scholar][SCHOLAR] | [DBLP][DBLP]\]
 
 ## Contacts
-* sangho@gatech.edu | sangho.lee.cs@gmail.com  
+* [sangho@gatech.edu][GATECH-EMAIL] | [sangho.lee.cs@gmail.com][GMAIL]
 * Room 3138, Klaus Advanced Computing Building, 266 Ferst Dr NW, Atlanta, GA 30332-0765
 
 ## Selected Publications
@@ -124,6 +124,9 @@ system security, hardware security, and web security.
 [CV]:      cv.pdf
 [SCHOLAR]: http://scholar.google.com/citations?user=kjPZ8VcAAAAJ&hl=en
 [DBLP]:    http://dblp.uni-trier.de/pers/hd/l/Lee_0001:Sangho
+
+[GATECH-EMAIL]: mailto:sangho@gatech.edu
+[GMAIL]:        mailto:sangho.lee.cs@gmail.com
 
 [ACSAC17]:   https://www.acsac.org/2017/
 [ACSAC16]:   https://www.acsac.org/2016/
