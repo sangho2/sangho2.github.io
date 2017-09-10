@@ -130,7 +130,7 @@ system security, hardware security, and web security.
 
 [ACSAC17]:   https://www.acsac.org/2017/
 [ACSAC16]:   https://www.acsac.org/2016/
-[ASIACCS18]: https://sites.google.com/site/asiaccs2018/
+[ASIACCS18]: http://asiaccs2018.org/
 
 [BSHADOW]:     papers/lee:sgx-branch-shadow.pdf
 [CABFUZZ]:     papers/kim:cab-fuzz.pdf
