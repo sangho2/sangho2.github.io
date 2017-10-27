@@ -7,17 +7,20 @@ Postdoctoral Fellow
 ## About Me 
 I am a Postdoctoral Fellow at Georgia Tech working with 
 [Prof. Taesoo Kim][TAESOO] and [Prof. Wenke Lee][WENKE].
-
 Before joining Georgia Tech 
 I was a Post-doctoral Research Associate at 
 [POSTECH][POSTECH] working with 
 [Prof. Jong Kim][JKIM] who was my Ph.D. advisor.
-
 My research interests are all aspects of 
 computer security including 
 system security, hardware security, and web security.
 
 \[[Curriculum Vitae][CV] | [Google Scholar][SCHOLAR] | [DBLP][DBLP]\]
+
+<span style="color:RoyalBlue; font-size:18px">
+___I am on the job market for a tenure-track faculty position (the 2018-2019 academic year). 
+My research and teaching statements are available upon request.___
+</span>
 
 ## Contacts
 * [sangho@gatech.edu][GATECH-EMAIL] | [sangho.lee.cs@gmail.com][GMAIL]
@@ -28,6 +31,10 @@ system security, hardware security, and web security.
 * __RAIN: Refinable Attack Investigation with On-demand Inter-Process Information Flow Tracking__ (to appear)
   * Yang Ji, __Sangho Lee__, Evan Downing, Weiren Wang, Mattia Fazzini, Taesoo Kim, Alessandro Orso, and Wenke Lee
   * _24th ACM Conference on Computer and Communications Security (__CCS 2017__)_, Dallas, Texas, USA, October 30-November 3, 2017
+  * &nbsp;
+* __SGX-Bomb: Locking Down the Processor via Rowhammer Attack__ (to appear)
+  * Yeongjin Jang, Jaehyuk Lee, __Sangho Lee__, and Taesoo Kim
+  * _2nd Workshop on System Software for Trusted Execution (SysTEX 2017)_, Shanghai, China, October 28, 2017
   * &nbsp;
 * __Inferring Fine-grained Control Flow Inside SGX Enclaves with Branch Shadowing__ \[[paper][BSHADOW] | [slides][BSHADOW-SLIDES] | [demo][BSHADOW-DEMO]\]
   * __Sangho Lee__, Ming-Wei Shih, Prasun Gera, Taesoo Kim, Hyesoon Kim, and Marcus Peinado
@@ -58,6 +65,10 @@ system security, hardware security, and web security.
 * __Toward Engineering a Secure Android Ecosystem: A Survey of Existing Techniques__ \[[paper][ANDROID]\]
   * Meng Xu, Chengyu Song, Yang Ji, Ming-Wei Shih, Kangjie Lu, Cong Zheng, Ruian Duan, Yeongjin Jang, Byoungyoung Lee, Chenxiong Qian, __Sangho Lee__, and Taesoo Kim
   * _ACM Computing Surveys_, vol. 49(2), Article 38, August 2016
+  * &nbsp;  
+* __RecProv: Towards Provenance-aware User-space Record and Replay__
+  * Yang Ji, __Sangho Lee__, and Wenke Lee
+  * _6th International Provenance and Annotation Workshop (IPAW 2016)_, McLean, Virginia, USA, June 7-8, 2016
 
 ### 2015
 * __CrowdTarget: Target-based Detection of Crowdturfing in Online Social Networks__ \[[paper][CROWDTARGET]\]
@@ -121,7 +132,7 @@ system security, hardware security, and web security.
 [TAESOO]:  https://taesoo.gtisc.gatech.edu
 [WENKE]:   http://wenke.gtisc.gatech.edu
 [JKIM]:    https://hpc.postech.ac.kr/~jkim
-[CV]:      cv.pdf
+[CV]:      https://gts3.org/~sangho/cv.pdf
 [SCHOLAR]: http://scholar.google.com/citations?user=kjPZ8VcAAAAJ&hl=en
 [DBLP]:    http://dblp.uni-trier.de/pers/hd/l/Lee_0001:Sangho
 
