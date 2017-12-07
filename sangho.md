@@ -24,15 +24,15 @@ My research and teaching statements are available upon request.___
 
 ## Contacts
 * [sangho@gatech.edu][GATECH-EMAIL] | [sangho.lee.cs@gmail.com][GMAIL]
-* Room 3138, Klaus Advanced Computing Building, 266 Ferst Dr NW, Atlanta, GA 30332-0765
+* Room 3119, Klaus Advanced Computing Building, 266 Ferst Dr NW, Atlanta, GA 30332-0765
 
 ## Selected Publications
 ### 2017
-* __RAIN: Refinable Attack Investigation with On-demand Inter-Process Information Flow Tracking__ (to appear)
+* __RAIN: Refinable Attack Investigation with On-demand Inter-Process Information Flow Tracking__ \[[paper][RAIN]\]
   * Yang Ji, __Sangho Lee__, Evan Downing, Weiren Wang, Mattia Fazzini, Taesoo Kim, Alessandro Orso, and Wenke Lee
   * _24th ACM Conference on Computer and Communications Security (__CCS 2017__)_, Dallas, Texas, USA, October 30-November 3, 2017
   * &nbsp;
-* __SGX-Bomb: Locking Down the Processor via Rowhammer Attack__ (to appear)
+* __SGX-Bomb: Locking Down the Processor via Rowhammer Attack__ \[[paper][SGXBOMB]\]
   * Yeongjin Jang, Jaehyuk Lee, __Sangho Lee__, and Taesoo Kim
   * _2nd Workshop on System Software for Trusted Execution (SysTEX 2017)_, Shanghai, China, October 28, 2017
   * &nbsp;
@@ -143,6 +143,8 @@ My research and teaching statements are available upon request.___
 [ACSAC16]:   https://www.acsac.org/2016/
 [ASIACCS18]: http://asiaccs2018.org/
 
+[RAIN]:        papers/ji:rain.pdf
+[SGXBOMB]:     papers/jang:sgx-bomb.pdf
 [BSHADOW]:     papers/lee:sgx-branch-shadow.pdf
 [CABFUZZ]:     papers/kim:cab-fuzz.pdf
 [TSGX]:        papers/shih:tsgx.pdf
