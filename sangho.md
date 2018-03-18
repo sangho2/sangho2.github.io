@@ -117,8 +117,9 @@ My research and teaching statements are available upon request.___
 
 ## Professional Services
 ### Program Committee Member
+* Annual Computer Security Applications Conference (ACSAC): [2018][ACSAC18], [2017][ACSAC17], [2016][ACSAC16]
 * ACM Asia Conference on Information, Computer and Communications Security (ASIACCS): [2018][ASIACCS18]
-* Annual Computer Security Applications Conference (ACSAC): [2017][ACSAC17], [2016][ACSAC16]
+* World Conference on Information Security Applications (WISA): [2018][WISA]
 
 ### Journal Reviewer
 * ACM TOPS 2016; IEEE TDSC 2014, 2009; IEEE TCSS 2017; IEEE CL 2016, 2013, 2010; SCN 2011; JCSE 2015, 2014
@@ -127,9 +128,9 @@ My research and teaching statements are available upon request.___
 [CoC]:     https://www.cc.gatech.edu
 [GT]:      https://www.gatech.edu
 [IISP]:    https://iisp.gatech.edu
-[SSLAB]:   https://sslab.gtisc.gatech.edu
+[SSLAB]:   https://gts3.org
 [POSTECH]: http://postech.ac.kr
-[TAESOO]:  https://taesoo.gtisc.gatech.edu
+[TAESOO]:  https://taesoo.kim
 [WENKE]:   http://wenke.gtisc.gatech.edu
 [JKIM]:    https://hpc.postech.ac.kr/~jkim
 [CV]:      https://gts3.org/~sangho/cv.pdf
@@ -139,9 +140,11 @@ My research and teaching statements are available upon request.___
 [GATECH-EMAIL]: mailto:sangho@gatech.edu
 [GMAIL]:        mailto:sangho.lee.cs@gmail.com
 
+[ACSAC18]:   https://www.acsac.org/2018/
 [ACSAC17]:   https://www.acsac.org/2017/
 [ACSAC16]:   https://www.acsac.org/2016/
 [ASIACCS18]: http://asiaccs2018.org/
+[WISA]:      http://wisa.or.kr/
 
 [RAIN]:        papers/ji:rain.pdf
 [SGXBOMB]:     papers/jang:sgx-bomb.pdf
