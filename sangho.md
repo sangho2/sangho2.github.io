@@ -17,11 +17,6 @@ system security, hardware security, and web security.
 
 \[[Curriculum Vitae][CV] | [Google Scholar][SCHOLAR] | [DBLP][DBLP]\]
 
-<span style="color:RoyalBlue; font-size:18px">
-___I am on the job market for a tenure-track faculty position (the 2018-2019 academic year). 
-My research and teaching statements are available upon request.___
-</span>
-
 ## Contacts
 * [sangho@gatech.edu][GATECH-EMAIL] | [sangho.lee.cs@gmail.com][GMAIL]
 * Room 3119, Klaus Advanced Computing Building, 266 Ferst Dr NW, Atlanta, GA 30332-0765
