@@ -27,6 +27,15 @@ My research and teaching statements are available upon request.___
 * Room 3119, Klaus Advanced Computing Building, 266 Ferst Dr NW, Atlanta, GA 30332-0765
 
 ## Selected Publications
+### 2018
+* __QSYM: A Practical Concolic Execution Engine Tailored for Hybrid Fuzzing__ (to appear)
+  * Insu Yun, __Sangho Lee__, Meng Xu, Yeongjin Jang, and Taesoo Kim
+  * _27th USENIX Security Symposium (__Security 2018__)_, Baltimore, Maryland, USA, August 15-17, 2018
+  * &nbsp;
+* __Efficient Data Flow Tagging and Tracking for Refinable Cross-host Attack Investigation__ (to appear)
+  * Yang Ji, __Sangho Lee__, Mattia Fazzini, Joey Allen, Evan Downing, Taesoo Kim, Alessandro Orso, and Wenke Lee
+  * _27th USENIX Security Symposium (__Security 2018__)_, Baltimore, Maryland, USA, August 15-17, 2018
+
 ### 2017
 * __RAIN: Refinable Attack Investigation with On-demand Inter-Process Information Flow Tracking__ \[[paper][RAIN]\]
   * Yang Ji, __Sangho Lee__, Evan Downing, Weiren Wang, Mattia Fazzini, Taesoo Kim, Alessandro Orso, and Wenke Lee
@@ -36,7 +45,7 @@ My research and teaching statements are available upon request.___
   * Yeongjin Jang, Jaehyuk Lee, __Sangho Lee__, and Taesoo Kim
   * _2nd Workshop on System Software for Trusted Execution (SysTEX 2017)_, Shanghai, China, October 28, 2017
   * &nbsp;
-* __Inferring Fine-grained Control Flow Inside SGX Enclaves with Branch Shadowing__ \[[paper][BSHADOW] | [slides][BSHADOW-SLIDES] | [demo][BSHADOW-DEMO]\]
+* __Inferring Fine-grained Control Flow Inside SGX Enclaves with Branch Shadowing__ \[[paper][BSHADOW] | [slides][BSHADOW-SLIDES] | [demo][BSHADOW-DEMO] | [code][BSHADOW-CODE]\]
   * __Sangho Lee__, Ming-Wei Shih, Prasun Gera, Taesoo Kim, Hyesoon Kim, and Marcus Peinado
   * _26th USENIX Security Symposium (__Security 2017__)_, Vancouver, Canada, August 16-18, 2017
   * &nbsp;
@@ -172,9 +181,10 @@ My research and teaching statements are available upon request.___
 [APPCACHE-SLIDES]:    papers/lee:appcache-slides.pdf
 [WARNINGBIRD-SLIDES]: papers/lee:warningbird-slides.pdf
 
-[TSGX-CODE]: https://github.com/sslab-gatech/t-sgx
-[DRK-CODE]:  https://github.com/sslab-gatech/DrK
-[GPU-CODE]:  https://github.com/sangho2/gpu-uninit-mem
+[TSGX-CODE]:    https://github.com/sslab-gatech/t-sgx
+[DRK-CODE]:     https://github.com/sslab-gatech/DrK
+[GPU-CODE]:     https://github.com/sangho2/gpu-uninit-mem
+[BSHADOW-CODE]: https://github.com/sslab-gatech/branch-shadowing
 
 [BSHADOW-DEMO]:  https://www.youtube.com/watch?v=jf9PanlF374
 [APPCACHE-DEMO]: https://www.youtube.com/watch?v=hgYwRsWq2y0
