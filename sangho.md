@@ -23,11 +23,12 @@ system security, hardware security, and web security.
 
 ## Selected Publications
 ### 2018
-* __QSYM: A Practical Concolic Execution Engine Tailored for Hybrid Fuzzing__ (to appear)
+* __QSYM: A Practical Concolic Execution Engine Tailored for Hybrid Fuzzing__ \[[paper][QSYM] | [code][QSYM-CODE]\]
   * Insu Yun, __Sangho Lee__, Meng Xu, Yeongjin Jang, and Taesoo Kim
   * _27th USENIX Security Symposium (__Security 2018__)_, Baltimore, Maryland, USA, August 15-17, 2018
+  * [Distinguished Paper Award][QSYM-AWARD]
   * &nbsp;
-* __Efficient Data Flow Tagging and Tracking for Refinable Cross-host Attack Investigation__ (to appear)
+* __Efficient Data Flow Tagging and Tracking for Refinable Cross-host Attack Investigation__ \[[paper][RTAG]\]
   * Yang Ji, __Sangho Lee__, Mattia Fazzini, Joey Allen, Evan Downing, Taesoo Kim, Alessandro Orso, and Wenke Lee
   * _27th USENIX Security Symposium (__Security 2018__)_, Baltimore, Maryland, USA, August 15-17, 2018
 
@@ -43,6 +44,7 @@ system security, hardware security, and web security.
 * __Inferring Fine-grained Control Flow Inside SGX Enclaves with Branch Shadowing__ \[[paper][BSHADOW] | [slides][BSHADOW-SLIDES] | [demo][BSHADOW-DEMO] | [code][BSHADOW-CODE]\]
   * __Sangho Lee__, Ming-Wei Shih, Prasun Gera, Taesoo Kim, Hyesoon Kim, and Marcus Peinado
   * _26th USENIX Security Symposium (__Security 2017__)_, Vancouver, Canada, August 16-18, 2017
+  * [Normalized Top-100 Security Papers][NORM-TOP-100]
   * &nbsp;
 * __CAB-Fuzz: Practical Concolic Testing Techniques for COTS Operating Systems__ \[[paper][CABFUZZ] | [slides][CABFUZZ-SLIDES]\]
   * Su Yong Kim, __Sangho Lee__, Insu Yun, Wen Xu, Byoungyoung Lee, Youngtae Yun, and Taesoo Kim
@@ -56,6 +58,7 @@ system security, hardware security, and web security.
   * Ming-Wei Shih#, __Sangho Lee__#, Taesoo Kim, and Marcus Peinado
   * _24th Network and Distributed System Security Symposium (__NDSS 2017__)_, San Diego, California, USA, February 26-March 1, 2017
   * [# co-first authors] 
+  * [Normalized Top-100 Security Papers][NORM-TOP-100]
 
 ### 2016
 * __Inferring Browser Activity and Status Through Remote Monitoring of Storage Usage__ \[[paper][STORAGE]\]
@@ -150,6 +153,8 @@ system security, hardware security, and web security.
 [ASIACCS18]: http://asiaccs2018.org/
 [WISA]:      http://wisa.or.kr/
 
+[QSYM]:        papers/yun:qsym.pdf
+[RTAG]:        papers/ji:rtag.pdf
 [RAIN]:        papers/ji:rain.pdf
 [SGXBOMB]:     papers/jang:sgx-bomb.pdf
 [BSHADOW]:     papers/lee:sgx-branch-shadow.pdf
@@ -176,6 +181,7 @@ system security, hardware security, and web security.
 [APPCACHE-SLIDES]:    papers/lee:appcache-slides.pdf
 [WARNINGBIRD-SLIDES]: papers/lee:warningbird-slides.pdf
 
+[QSYM-CODE]:    https://github.com/sslab-gatech/qsym
 [TSGX-CODE]:    https://github.com/sslab-gatech/t-sgx
 [DRK-CODE]:     https://github.com/sslab-gatech/DrK
 [GPU-CODE]:     https://github.com/sangho2/gpu-uninit-mem
@@ -183,3 +189,7 @@ system security, hardware security, and web security.
 
 [BSHADOW-DEMO]:  https://www.youtube.com/watch?v=jf9PanlF374
 [APPCACHE-DEMO]: https://www.youtube.com/watch?v=hgYwRsWq2y0
+
+[QSYM-AWARD]: https://www.usenix.org/conferences/best-papers?taxonomy_vocabulary_1_tid=2018&title_1=security
+
+[NORM-TOP-100]: https://www.sec.cs.tu-bs.de/~konrieck/topnotch/sec_ntop100.html
