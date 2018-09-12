@@ -1,18 +1,18 @@
 # Sangho Lee
-Postdoctoral Fellow  
-[School of Computer Science][SCS] | [College of Computing][CoC]  
-[Georgia Institute of Technology][GT]  
-[IISP][IISP] | [SSLab][SSLAB]  
+Postdoctoral Fellow
+[School of Computer Science][SCS] | [College of Computing][CoC]
+[Georgia Institute of Technology][GT]
+[IISP][IISP] | [SSLab][SSLAB]
 
-## About Me 
-I am a Postdoctoral Fellow at Georgia Tech working with 
+## About Me
+I am a Postdoctoral Fellow at Georgia Tech working with
 [Prof. Taesoo Kim][TAESOO] and [Prof. Wenke Lee][WENKE].
-Before joining Georgia Tech 
-I was a Post-doctoral Research Associate at 
-[POSTECH][POSTECH] working with 
+Before joining Georgia Tech
+I was a Post-doctoral Research Associate at
+[POSTECH][POSTECH] working with
 [Prof. Jong Kim][JKIM] who was my Ph.D. advisor.
-My research interests are all aspects of 
-computer security including 
+My research interests are all aspects of
+computer security including
 system security, hardware security, and web security.
 
 \[[Curriculum Vitae][CV] | [Google Scholar][SCHOLAR] | [DBLP][DBLP]\]
@@ -26,7 +26,7 @@ system security, hardware security, and web security.
 * __QSYM: A Practical Concolic Execution Engine Tailored for Hybrid Fuzzing__ \[[paper][QSYM] | [code][QSYM-CODE]\]
   * Insu Yun, __Sangho Lee__, Meng Xu, Yeongjin Jang, and Taesoo Kim
   * _27th USENIX Security Symposium (__Security 2018__)_, Baltimore, Maryland, USA, August 15-17, 2018
-  * [Distinguished Paper Award][QSYM-AWARD]
+  * [Distinguished Paper Award][QSYM-AWARD] [The Morning Paper][QSYM-MORNING]
   * &nbsp;
 * __Efficient Data Flow Tagging and Tracking for Refinable Cross-host Attack Investigation__ \[[paper][RTAG]\]
   * Yang Ji, __Sangho Lee__, Mattia Fazzini, Joey Allen, Evan Downing, Taesoo Kim, Alessandro Orso, and Wenke Lee
@@ -44,6 +44,7 @@ system security, hardware security, and web security.
 * __Inferring Fine-grained Control Flow Inside SGX Enclaves with Branch Shadowing__ \[[paper][BSHADOW] | [slides][BSHADOW-SLIDES] | [demo][BSHADOW-DEMO] | [code][BSHADOW-CODE]\]
   * __Sangho Lee__, Ming-Wei Shih, Prasun Gera, Taesoo Kim, Hyesoon Kim, and Marcus Peinado
   * _26th USENIX Security Symposium (__Security 2017__)_, Vancouver, Canada, August 16-18, 2017
+  * [Normalized Top-100 Security Papers][NORM-TOP-100]
   * &nbsp;
 * __CAB-Fuzz: Practical Concolic Testing Techniques for COTS Operating Systems__ \[[paper][CABFUZZ] | [slides][CABFUZZ-SLIDES]\]
   * Su Yong Kim, __Sangho Lee__, Insu Yun, Wen Xu, Byoungyoung Lee, Youngtae Yun, and Taesoo Kim
@@ -56,7 +57,7 @@ system security, hardware security, and web security.
 * __T-SGX: Eradicating Controlled-Channel Attacks Against Enclave Programs__ \[[paper][TSGX] | [code][TSGX-CODE]\]
   * Ming-Wei Shih#, __Sangho Lee__#, Taesoo Kim, and Marcus Peinado
   * _24th Network and Distributed System Security Symposium (__NDSS 2017__)_, San Diego, California, USA, February 26-March 1, 2017
-  * [# co-first authors] 
+  * [# co-first authors] [Normalized Top-100 Security Papers][NORM-TOP-100]
 
 ### 2016
 * __Inferring Browser Activity and Status Through Remote Monitoring of Storage Usage__ \[[paper][STORAGE]\]
@@ -166,6 +167,7 @@ system security, hardware security, and web security.
 [BSHADOW-DEMO]:  https://www.youtube.com/watch?v=jf9PanlF374
 [APPCACHE-DEMO]: https://www.youtube.com/watch?v=hgYwRsWq2y0
 
-[QSYM-AWARD]: https://www.usenix.org/conferences/best-papers?taxonomy_vocabulary_1_tid=2018&title_1=security
+[QSYM-AWARD]:   https://www.usenix.org/conferences/best-papers?taxonomy_vocabulary_1_tid=2018&title_1=security
+[QSYM-MORNING]: https://blog.acolyer.org/2018/09/12/qsym-a-practical-concolic-execution-engine-tailored-for-hybrid-fuzzing/
 
 [NORM-TOP-100]: https://www.sec.cs.tu-bs.de/~konrieck/topnotch/sec_ntop100.html
