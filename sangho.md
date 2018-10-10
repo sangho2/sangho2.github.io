@@ -106,7 +106,7 @@ system security, hardware security, and web security.
 * World Conference on Information Security Applications (WISA): [2018][WISA]
 
 ### Journal Reviewer
-* ACM TOPS 2016; IEEE TDSC 2014, 2009; IEEE TCSS 2017; IEEE CL 2016, 2013, 2010; SCN 2011; JCSE 2015, 2014
+* ACM TOPS 2016; IEEE TDSC 2018, 2014, 2009; IEEE TIFS 2018; IEEE TCSS 2017; IEEE CL 2013; SCN 2011; JCSE 2015
 
 [SCS]:     https://www.scs.gatech.edu
 [CoC]:     https://www.cc.gatech.edu
