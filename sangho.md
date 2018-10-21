@@ -1,21 +1,17 @@
 # Sangho Lee
-Postdoctoral Fellow
-[School of Computer Science][SCS] | [College of Computing][CoC]
-[Georgia Institute of Technology][GT]
-[IISP][IISP] | [SSLab][SSLAB]
+* Postdoctoral Fellow
+* [School of Computer Science][SCS] | [College of Computing][CoC]
+* [Georgia Institute of Technology][GT] | [IISP][IISP] | [SSLab][SSLAB]
 
 ## About Me
-I am a Postdoctoral Fellow at Georgia Tech working with
-[Prof. Taesoo Kim][TAESOO] and [Prof. Wenke Lee][WENKE].
-Before joining Georgia Tech
-I was a Post-doctoral Research Associate at
-[POSTECH][POSTECH] working with
-[Prof. Jong Kim][JKIM] who was my Ph.D. advisor.
-My research interests are all aspects of
-computer security including
-system security, hardware security, and web security.
-
-\[[Curriculum Vitae][CV] | [Google Scholar][SCHOLAR] | [DBLP][DBLP]\]
+* I am a Postdoctoral Fellow at Georgia Tech working with [Prof. Taesoo
+Kim][TAESOO] and [Prof. Wenke Lee][WENKE].  Before joining Georgia Tech I was a
+Post-doctoral Research Associate at [POSTECH][POSTECH] working with [Prof. Jong
+Kim][JKIM] who was my Ph.D. advisor.  My research interests are all aspects of
+computer security including system security, hardware security, and web
+security.
+* \[[Curriculum Vitae][CV] | [Google Scholar][SCHOLAR] | [DBLP][DBLP]\]
+* __I will join Microsoft Research Redmond in November 2018.__
 
 ## Contacts
 * [sangho@gatech.edu][GATECH-EMAIL] | [sangho.lee.cs@gmail.com][GMAIL]
