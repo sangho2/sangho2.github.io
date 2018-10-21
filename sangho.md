@@ -10,8 +10,10 @@ Post-doctoral Research Associate at [POSTECH][POSTECH] working with [Prof. Jong
 Kim][JKIM] who was my Ph.D. advisor.  My research interests are all aspects of
 computer security including system security, hardware security, and web
 security.
+
 * \[[Curriculum Vitae][CV] | [Google Scholar][SCHOLAR] | [DBLP][DBLP]\]
-* __I will join Microsoft Research Redmond in November 2018.__
+
+* __I will join Microsoft Research Redmond as a Researcher in November 2018.__
 
 ## Contacts
 * [sangho@gatech.edu][GATECH-EMAIL] | [sangho.lee.cs@gmail.com][GMAIL]
