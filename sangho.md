@@ -2,11 +2,13 @@
 * Researcher@[Microsoft Research Redmond][MSR]
 
 ## About Me
-* I am a Researcher at Microsoft Research Redmond.  Before joining MSR I was a
-Postdoctoral Fellow at [Georgia Tech][GT] and a Post-doctoral Research
-Associate at [POSTECH][POSTECH]. I obtained Ph.D. from POSTECH. My research
-interests are all aspects of computer security including systems security,
-hardware security, and web security.
+* I am a Researcher at Microsoft Research Redmond. Before joining MSR I was a
+Postdoctoral Fellow at [Georgia Tech][GT] hosted by [Prof. Taesoo Kim][TAESOO]
+and [Prof. Wenke Lee][WENKE], and before that I was a Post-doctoral Research
+Associate at [POSTECH][POSTECH]. I received my Ph.D. from POSTECH under the
+supervision of [Prof. Jong Kim][JKIM]. My research interests are all aspects of
+computer security including systems security, hardware security, and web
+security.
 
 * \[[Curriculum Vitae][CV] | [Google Scholar][SCHOLAR] | [DBLP][DBLP]\]
 
