@@ -1,6 +1,5 @@
 # Sangho Lee
-* Researcher
-* [Microsoft Research Redmond][MSR]
+* Researcher@[Microsoft Research Redmond][MSR]
 
 ## About Me
 * I am a Researcher at Microsoft Research Redmond.  Before joining MSR I was a
