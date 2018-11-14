@@ -4,9 +4,9 @@
 ## About Me
 * I am a Researcher at Microsoft Research Redmond.  Before joining MSR I was a
 Postdoctoral Fellow at [Georgia Tech][GT] and a Post-doctoral Research
-Associate at [POSTECH][POSTECH]. My research interests are all aspects of
-computer security including systems security, hardware security, and web
-security.
+Associate at [POSTECH][POSTECH]. I obtained Ph.D. from POSTECH. My research
+interests are all aspects of computer security including systems security,
+hardware security, and web security.
 
 * \[[Curriculum Vitae][CV] | [Google Scholar][SCHOLAR] | [DBLP][DBLP]\]
 
