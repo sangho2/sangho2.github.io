@@ -1,23 +1,19 @@
 # Sangho Lee
-* Postdoctoral Fellow
-* [School of Computer Science][SCS] | [College of Computing][CoC]
-* [Georgia Institute of Technology][GT] | [IISP][IISP] | [SSLab][SSLAB]
+* Researcher
+* [Microsoft Research Redmond][MSR]
 
 ## About Me
-* I am a Postdoctoral Fellow at Georgia Tech working with [Prof. Taesoo
-Kim][TAESOO] and [Prof. Wenke Lee][WENKE].  Before joining Georgia Tech I was a
-Post-doctoral Research Associate at [POSTECH][POSTECH] working with [Prof. Jong
-Kim][JKIM] who was my Ph.D. advisor.  My research interests are all aspects of
-computer security including system security, hardware security, and web
+* I am a Researcher at Microsoft Research Redmond.  Before joining MSR I was a
+Postdoctoral Fellow at [Georgia Tech][GT] and a Post-doctoral Research
+Associate at [POSTECH][POSTECH]. My research interests are all aspects of
+computer security including systems security, hardware security, and web
 security.
 
 * \[[Curriculum Vitae][CV] | [Google Scholar][SCHOLAR] | [DBLP][DBLP]\]
 
-* __I will join Microsoft Research Redmond as a Researcher in November 2018.__
-
 ## Contacts
-* [sangho@gatech.edu][GATECH-EMAIL] | [sangho.lee.cs@gmail.com][GMAIL]
-* Room 3119, Klaus Advanced Computing Building, 266 Ferst Dr NW, Atlanta, GA 30332-0765
+* [Sangho.Lee@microsoft.com][MS-EMAIL] | [sangho.lee.cs@gmail.com][GMAIL]
+* Room 2111, Building 99, 14820 NE 36th St, Redmond, WA 98052
 
 ## Selected Publications
 ### 2018
@@ -106,6 +102,7 @@ security.
 ### Journal Reviewer
 * ACM TOPS 2016; IEEE TDSC 2018, 2014, 2009; IEEE TIFS 2018; IEEE TCSS 2017; IEEE CL 2013; SCN 2011; JCSE 2015
 
+[MSR]:     https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/
 [SCS]:     https://www.scs.gatech.edu
 [CoC]:     https://www.cc.gatech.edu
 [GT]:      https://www.gatech.edu
@@ -119,6 +116,7 @@ security.
 [SCHOLAR]: http://scholar.google.com/citations?user=kjPZ8VcAAAAJ&hl=en
 [DBLP]:    http://dblp.uni-trier.de/pers/hd/l/Lee_0001:Sangho
 
+[MS-EMAIL]:     mailto:Sangho.Lee@microsoft.com
 [GATECH-EMAIL]: mailto:sangho@gatech.edu
 [GMAIL]:        mailto:sangho.lee.cs@gmail.com
 
