@@ -2,7 +2,7 @@
 * Researcher@[Microsoft Research Redmond][MSR]
 
 ## About Me
-* I am a Researcher at Microsoft Research Redmond. Before joining MSR I was a
+* I am a Researcher at Microsoft Research Redmond. Before joining Microsoft Research I was a
 Postdoctoral Fellow at [Georgia Tech][GT] hosted by [Prof. Taesoo Kim][TAESOO]
 and [Prof. Wenke Lee][WENKE], and before that I was a Post-doctoral Research
 Associate at [POSTECH][POSTECH]. I received my Ph.D. from POSTECH under the
@@ -103,7 +103,7 @@ security.
 ### Journal Reviewer
 * ACM TOPS 2016; IEEE TDSC 2018, 2014, 2009; IEEE TIFS 2018; IEEE TCSS 2017; IEEE CL 2013; SCN 2011; JCSE 2015
 
-[MSR]:     https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/
+[MSR]:     https://www.microsoft.com/en-us/research/people/sanghle/
 [SCS]:     https://www.scs.gatech.edu
 [CoC]:     https://www.cc.gatech.edu
 [GT]:      https://www.gatech.edu
