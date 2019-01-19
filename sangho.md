@@ -17,6 +17,11 @@ security.
 * Room 2111, Building 99, 14820 NE 36th St, Redmond, WA 98052
 
 ## Selected Publications
+### 2019
+* __All Your Clicks Belong to Me: Investigating Click Interception on the Web__ (minor revision)
+  * Mingxue Zhang, Wei Meng, __Sangho Lee__, Byoungyoung Lee, and Xinyu Xing
+  * _28th USENIX Security Symposium (__Security 2019__)_, Santa Clara, California, USA, August 14-16, 2019
+
 ### 2018
 * __QSYM: A Practical Concolic Execution Engine Tailored for Hybrid Fuzzing__ \[[paper][QSYM] | [code][QSYM-CODE]\]
   * Insu Yun, __Sangho Lee__, Meng Xu, Yeongjin Jang, and Taesoo Kim
