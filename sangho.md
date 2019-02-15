@@ -18,9 +18,12 @@ security.
 
 ## Selected Publications
 ### 2019
-* __All Your Clicks Belong to Me: Investigating Click Interception on the Web__ (minor revision)
+* __All Your Clicks Belong to Me: Investigating Click Interception on the Web__ (to appear)
   * Mingxue Zhang, Wei Meng, __Sangho Lee__, Byoungyoung Lee, and Xinyu Xing
   * _28th USENIX Security Symposium (__Security 2019__)_, Santa Clara, California, USA, August 14-16, 2019
+* __Dominance as a New Trusted Computing Primitive for the Internet of Things__ (to appear)
+  * Meng Xu, Manuel Huber, Zhichuang Sun, Paul England, Marcus Peinado, __Sangho Lee__, Andrey Marochko, Dennis Matoon, Rob Spiger, and Stefan Thom 
+  * _40th IEEE Symposium on Security and Privacy (__Oakland 2019__)_, San Francisco, California, USA, May 20-22, 2019
 
 ### 2018
 * __QSYM: A Practical Concolic Execution Engine Tailored for Hybrid Fuzzing__ \[[paper][QSYM] | [code][QSYM-CODE]\]
