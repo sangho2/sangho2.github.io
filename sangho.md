@@ -41,10 +41,6 @@ security.
   * Yang Ji, __Sangho Lee__, Evan Downing, Weiren Wang, Mattia Fazzini, Taesoo Kim, Alessandro Orso, and Wenke Lee
   * _24th ACM Conference on Computer and Communications Security (__CCS 2017__)_, Dallas, Texas, USA, October 30-November 3, 2017
   * &nbsp;
-* __SGX-Bomb: Locking Down the Processor via Rowhammer Attack__ \[[paper][SGXBOMB]\]
-  * Yeongjin Jang, Jaehyuk Lee, __Sangho Lee__, and Taesoo Kim
-  * _2nd Workshop on System Software for Trusted Execution (SysTEX 2017)_, Shanghai, China, October 28, 2017
-  * &nbsp;
 * __Inferring Fine-grained Control Flow Inside SGX Enclaves with Branch Shadowing__ \[[paper][BSHADOW] | [slides][BSHADOW-SLIDES] | [demo][BSHADOW-DEMO] | [code][BSHADOW-CODE]\]
   * __Sangho Lee__, Ming-Wei Shih, Prasun Gera, Taesoo Kim, Hyesoon Kim, and Marcus Peinado
   * _26th USENIX Security Symposium (__Security 2017__)_, Vancouver, Canada, August 16-18, 2017
@@ -53,10 +49,6 @@ security.
 * __CAB-Fuzz: Practical Concolic Testing Techniques for COTS Operating Systems__ \[[paper][CABFUZZ] | [slides][CABFUZZ-SLIDES]\]
   * Su Yong Kim, __Sangho Lee__, Insu Yun, Wen Xu, Byoungyoung Lee, Youngtae Yun, and Taesoo Kim
   * _2017 USENIX Annual Technical Conference (__ATC 2017__)_, Santa Clara, California, USA, July 12-14, 2017
-  * &nbsp;
-* __FACT: Functionality-centric Access Control System for IoT Programming Frameworks__ \[[paper][FACT]\]
-  * Sanghak Lee, Jiwon Choi, Jihun Kim, Beumjin Cho, __Sangho Lee__, Hanjun Kim, and Jong Kim
-  * _22nd ACM Symposium on Access Control Models and Technologies (SACMAT 2017)_, Indianapolis, Indiana, USA, June 21-23, 2017
   * &nbsp;
 * __T-SGX: Eradicating Controlled-Channel Attacks Against Enclave Programs__ \[[paper][TSGX] | [code][TSGX-CODE]\]
   * Ming-Wei Shih#, __Sangho Lee__#, Taesoo Kim, and Marcus Peinado
