@@ -97,7 +97,7 @@ security.
 
 ## Professional Services
 ### Program Committee Member
-* Annual Computer Security Applications Conference (ACSAC): [2018][ACSAC18], [2017][ACSAC17], [2016][ACSAC16]
+* Annual Computer Security Applications Conference (ACSAC): 2019, [2018][ACSAC18], [2017][ACSAC17], [2016][ACSAC16]
 * ACM Asia Conference on Information, Computer and Communications Security (ASIACCS): [2018][ASIACCS18]
 * World Conference on Information Security Applications (WISA): [2018][WISA]
 
