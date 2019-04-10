@@ -121,7 +121,7 @@ security.
 [TAESOO]:  https://taesoo.kim
 [WENKE]:   http://wenke.gtisc.gatech.edu
 [JKIM]:    https://hpc.postech.ac.kr/~jkim
-[CV]:      https://gts3.org/~sangho/cv.pdf
+[CV]:      cv.pdf
 [SCHOLAR]: http://scholar.google.com/citations?user=kjPZ8VcAAAAJ&hl=en
 [DBLP]:    http://dblp.uni-trier.de/pers/hd/l/Lee_0001:Sangho
 
