@@ -21,6 +21,7 @@ security.
 * __All Your Clicks Belong to Me: Investigating Click Interception on the Web__ (to appear)
   * Mingxue Zhang, Wei Meng, __Sangho Lee__, Byoungyoung Lee, and Xinyu Xing
   * _28th USENIX Security Symposium (__Security 2019__)_, Santa Clara, California, USA, August 14-16, 2019
+  * &nbsp;
 * __Dominance as a New Trusted Computing Primitive for the Internet of Things__ (to appear)
   * Meng Xu, Manuel Huber, Zhichuang Sun, Paul England, Marcus Peinado, __Sangho Lee__, Andrey Marochko, Dennis Matoon, Rob Spiger, and Stefan Thom 
   * _40th IEEE Symposium on Security and Privacy (__Oakland 2019__)_, San Francisco, California, USA, May 20-22, 2019
@@ -40,10 +41,6 @@ security.
   * Yang Ji, __Sangho Lee__, Evan Downing, Weiren Wang, Mattia Fazzini, Taesoo Kim, Alessandro Orso, and Wenke Lee
   * _24th ACM Conference on Computer and Communications Security (__CCS 2017__)_, Dallas, Texas, USA, October 30-November 3, 2017
   * &nbsp;
-* __SGX-Bomb: Locking Down the Processor via Rowhammer Attack__ \[[paper][SGXBOMB]\]
-  * Yeongjin Jang, Jaehyuk Lee, __Sangho Lee__, and Taesoo Kim
-  * _2nd Workshop on System Software for Trusted Execution (SysTEX 2017)_, Shanghai, China, October 28, 2017
-  * &nbsp;
 * __Inferring Fine-grained Control Flow Inside SGX Enclaves with Branch Shadowing__ \[[paper][BSHADOW] | [slides][BSHADOW-SLIDES] | [demo][BSHADOW-DEMO] | [code][BSHADOW-CODE]\]
   * __Sangho Lee__, Ming-Wei Shih, Prasun Gera, Taesoo Kim, Hyesoon Kim, and Marcus Peinado
   * _26th USENIX Security Symposium (__Security 2017__)_, Vancouver, Canada, August 16-18, 2017
@@ -52,10 +49,6 @@ security.
 * __CAB-Fuzz: Practical Concolic Testing Techniques for COTS Operating Systems__ \[[paper][CABFUZZ] | [slides][CABFUZZ-SLIDES]\]
   * Su Yong Kim, __Sangho Lee__, Insu Yun, Wen Xu, Byoungyoung Lee, Youngtae Yun, and Taesoo Kim
   * _2017 USENIX Annual Technical Conference (__ATC 2017__)_, Santa Clara, California, USA, July 12-14, 2017
-  * &nbsp;
-* __FACT: Functionality-centric Access Control System for IoT Programming Frameworks__ \[[paper][FACT]\]
-  * Sanghak Lee, Jiwon Choi, Jihun Kim, Beumjin Cho, __Sangho Lee__, Hanjun Kim, and Jong Kim
-  * _22nd ACM Symposium on Access Control Models and Technologies (SACMAT 2017)_, Indianapolis, Indiana, USA, June 21-23, 2017
   * &nbsp;
 * __T-SGX: Eradicating Controlled-Channel Attacks Against Enclave Programs__ \[[paper][TSGX] | [code][TSGX-CODE]\]
   * Ming-Wei Shih#, __Sangho Lee__#, Taesoo Kim, and Marcus Peinado
@@ -104,7 +97,7 @@ security.
 
 ## Professional Services
 ### Program Committee Member
-* Annual Computer Security Applications Conference (ACSAC): [2018][ACSAC18], [2017][ACSAC17], [2016][ACSAC16]
+* Annual Computer Security Applications Conference (ACSAC): 2019, [2018][ACSAC18], [2017][ACSAC17], [2016][ACSAC16]
 * ACM Asia Conference on Information, Computer and Communications Security (ASIACCS): [2018][ASIACCS18]
 * World Conference on Information Security Applications (WISA): [2018][WISA]
 
