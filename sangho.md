@@ -22,7 +22,11 @@ security.
   * Mingxue Zhang, Wei Meng, __Sangho Lee__, Byoungyoung Lee, and Xinyu Xing
   * _28th USENIX Security Symposium (__Security 2019__)_, Santa Clara, California, USA, August 14-16, 2019
   * &nbsp;
-* __Dominance as a New Trusted Computing Primitive for the Internet of Things__ (to appear)
+* __libmpk: Software Abstraction for Intel Memory Protection Keys (Intel MPK)__ (to appear)
+  * Soyeon Park, __Sangho Lee__, Wen Xu, Hyungon Moon, and Taesoo Kim
+  * _2019 USENIX Annual Technical Conference (__ATC 2019__)_, Renton, Washington, USA, July 10-12, 2019
+  * &nbsp;
+* __Dominance as a New Trusted Computing Primitive for the Internet of Things__ (to appear) \[[paper][CIDER]\]
   * Meng Xu, Manuel Huber, Zhichuang Sun, Paul England, Marcus Peinado, __Sangho Lee__, Andrey Marochko, Dennis Matoon, Rob Spiger, and Stefan Thom 
   * _40th IEEE Symposium on Security and Privacy (__Oakland 2019__)_, San Francisco, California, USA, May 20-22, 2019
 
@@ -97,7 +101,7 @@ security.
 
 ## Professional Services
 ### Program Committee Member
-* Annual Computer Security Applications Conference (ACSAC): 2019, [2018][ACSAC18], [2017][ACSAC17], [2016][ACSAC16]
+* Annual Computer Security Applications Conference (ACSAC): [2019][ACSAC19], [2018][ACSAC18], [2017][ACSAC17], [2016][ACSAC16]
 * ACM Asia Conference on Information, Computer and Communications Security (ASIACCS): [2018][ASIACCS18]
 * World Conference on Information Security Applications (WISA): [2018][WISA]
 
@@ -122,12 +126,14 @@ security.
 [GATECH-EMAIL]: mailto:sangho@gatech.edu
 [GMAIL]:        mailto:sangho.lee.cs@gmail.com
 
+[ACSAC19]:   https://www.acsac.org/2019/
 [ACSAC18]:   https://www.acsac.org/2018/
 [ACSAC17]:   https://www.acsac.org/2017/
 [ACSAC16]:   https://www.acsac.org/2016/
 [ASIACCS18]: http://asiaccs2018.org/
 [WISA]:      http://wisa.or.kr/
 
+[CIDER]:       https://www.microsoft.com/en-us/research/uploads/prod/2019/03/cider-sp19.pdf
 [QSYM]:        papers/yun:qsym.pdf
 [RTAG]:        papers/ji:rtag.pdf
 [RAIN]:        papers/ji:rain.pdf
