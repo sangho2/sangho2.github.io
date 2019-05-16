@@ -18,7 +18,7 @@ security.
 
 ## Selected Publications
 ### 2019
-* __All Your Clicks Belong to Me: Investigating Click Interception on the Web__ (to appear)
+* __All Your Clicks Belong to Me: Investigating Click Interception on the Web__ (to appear) \[[paper][OBSERVER]\]
   * Mingxue Zhang, Wei Meng, __Sangho Lee__, Byoungyoung Lee, and Xinyu Xing
   * _28th USENIX Security Symposium (__Security 2019__)_, Santa Clara, California, USA, August 14-16, 2019
   * &nbsp;
@@ -133,6 +133,7 @@ security.
 [ASIACCS18]: http://asiaccs2018.org/
 [WISA]:      http://wisa.or.kr/
 
+[OBSERVER]:    https://www.microsoft.com/en-us/research/uploads/prod/2019/03/zhang-observer.pdf
 [CIDER]:       https://www.microsoft.com/en-us/research/uploads/prod/2019/03/cider-sp19.pdf
 [QSYM]:        papers/yun:qsym.pdf
 [RTAG]:        papers/ji:rtag.pdf
