@@ -26,7 +26,7 @@ security.
   * Soyeon Park, __Sangho Lee__, Wen Xu, Hyungon Moon, and Taesoo Kim
   * _2019 USENIX Annual Technical Conference (__ATC 2019__)_, Renton, Washington, USA, July 10-12, 2019
   * &nbsp;
-* __Dominance as a New Trusted Computing Primitive for the Internet of Things__ (to appear) \[[paper][CIDER]\]
+* __Dominance as a New Trusted Computing Primitive for the Internet of Things__ \[[paper][CIDER]\]
   * Meng Xu, Manuel Huber, Zhichuang Sun, Paul England, Marcus Peinado, __Sangho Lee__, Andrey Marochko, Dennis Matoon, Rob Spiger, and Stefan Thom 
   * _40th IEEE Symposium on Security and Privacy (__Oakland 2019__)_, San Francisco, California, USA, May 20-22, 2019
 
