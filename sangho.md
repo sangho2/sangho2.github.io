@@ -22,7 +22,7 @@ security.
   * Mingxue Zhang, Wei Meng, __Sangho Lee__, Byoungyoung Lee, and Xinyu Xing
   * _28th USENIX Security Symposium (__Security 2019__)_, Santa Clara, California, USA, August 14-16, 2019
   * &nbsp;
-* __libmpk: Software Abstraction for Intel Memory Protection Keys (Intel MPK)__ (to appear)
+* __libmpk: Software Abstraction for Intel Memory Protection Keys (Intel MPK)__ \[[paper][LIBMPK]\]
   * Soyeon Park, __Sangho Lee__, Wen Xu, Hyungon Moon, and Taesoo Kim
   * _2019 USENIX Annual Technical Conference (__ATC 2019__)_, Renton, Washington, USA, July 10-12, 2019
   * &nbsp;
@@ -134,6 +134,7 @@ security.
 [WISA]:      http://wisa.or.kr/
 
 [OBSERVER]:    https://www.microsoft.com/en-us/research/uploads/prod/2019/03/zhang-observer.pdf
+[LIBMPK]:      https://www.microsoft.com/en-us/research/uploads/prod/2019/05/park-libmpk.pdf
 [CIDER]:       https://www.microsoft.com/en-us/research/uploads/prod/2019/03/cider-sp19.pdf
 [QSYM]:        papers/yun:qsym.pdf
 [RTAG]:        papers/ji:rtag.pdf
