@@ -48,7 +48,6 @@ security.
 * __Inferring Fine-grained Control Flow Inside SGX Enclaves with Branch Shadowing__ \[[paper][BSHADOW] | [slides][BSHADOW-SLIDES] | [demo][BSHADOW-DEMO] | [code][BSHADOW-CODE]\]
   * __Sangho Lee__, Ming-Wei Shih, Prasun Gera, Taesoo Kim, Hyesoon Kim, and Marcus Peinado
   * _26th USENIX Security Symposium (__Security 2017__)_, Vancouver, Canada, August 16-18, 2017
-  * [Normalized Top-100 Security Papers][NORM-TOP-100]
   * &nbsp;
 * __CAB-Fuzz: Practical Concolic Testing Techniques for COTS Operating Systems__ \[[paper][CABFUZZ] | [slides][CABFUZZ-SLIDES]\]
   * Su Yong Kim, __Sangho Lee__, Insu Yun, Wen Xu, Byoungyoung Lee, Youngtae Yun, and Taesoo Kim
@@ -57,7 +56,7 @@ security.
 * __T-SGX: Eradicating Controlled-Channel Attacks Against Enclave Programs__ \[[paper][TSGX] | [code][TSGX-CODE]\]
   * Ming-Wei Shih#, __Sangho Lee__#, Taesoo Kim, and Marcus Peinado
   * _24th Network and Distributed System Security Symposium (__NDSS 2017__)_, San Diego, California, USA, February 26-March 1, 2017
-  * [# co-first authors] [Normalized Top-100 Security Papers][NORM-TOP-100]
+  * [# co-first authors]
 
 ### 2016
 * __Inferring Browser Activity and Status Through Remote Monitoring of Storage Usage__ \[[paper][STORAGE]\]
@@ -175,5 +174,3 @@ security.
 
 [QSYM-AWARD]:   https://www.usenix.org/conferences/best-papers?taxonomy_vocabulary_1_tid=2018&title_1=security
 [QSYM-MORNING]: https://blog.acolyer.org/2018/09/12/qsym-a-practical-concolic-execution-engine-tailored-for-hybrid-fuzzing/
-
-[NORM-TOP-100]: https://www.sec.cs.tu-bs.de/~konrieck/topnotch/sec_ntop100.html
