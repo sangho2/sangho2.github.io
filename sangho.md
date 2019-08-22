@@ -1,8 +1,8 @@
 # Sangho Lee
-* Researcher@[Microsoft Research Redmond][MSR]
+* Senior Researcher@[Microsoft Research Redmond][MSR]
 
 ## About Me
-* I am a Researcher at Microsoft Research Redmond. Before joining Microsoft Research I was a
+* I am a Senior Researcher at Microsoft Research Redmond. Before joining Microsoft Research I was a
 Postdoctoral Fellow at [Georgia Tech][GT] hosted by [Prof. Taesoo Kim][TAESOO]
 and [Prof. Wenke Lee][WENKE], and before that I was a Post-doctoral Research
 Associate at [POSTECH][POSTECH]. I received my Ph.D. from POSTECH under the
@@ -18,7 +18,7 @@ security.
 
 ## Selected Publications
 ### 2019
-* __All Your Clicks Belong to Me: Investigating Click Interception on the Web__ (to appear) \[[paper][OBSERVER]\]
+* __All Your Clicks Belong to Me: Investigating Click Interception on the Web__ \[[paper][OBSERVER]\]
   * Mingxue Zhang, Wei Meng, __Sangho Lee__, Byoungyoung Lee, and Xinyu Xing
   * _28th USENIX Security Symposium (__Security 2019__)_, Santa Clara, California, USA, August 14-16, 2019
   * &nbsp;
