@@ -22,7 +22,7 @@ security.
   * Mingxue Zhang, Wei Meng, __Sangho Lee__, Byoungyoung Lee, and Xinyu Xing
   * _28th USENIX Security Symposium (__Security 2019__)_, Santa Clara, California, USA, August 14-16, 2019
   * &nbsp;
-* __libmpk: Software Abstraction for Intel Memory Protection Keys (Intel MPK)__ \[[paper][LIBMPK]\]
+* __libmpk: Software Abstraction for Intel Memory Protection Keys (Intel MPK)__ \[[paper][LIBMPK] | [code][LIBMPK-CODE]\]
   * Soyeon Park, __Sangho Lee__, Wen Xu, Hyungon Moon, and Taesoo Kim
   * _2019 USENIX Annual Technical Conference (__ATC 2019__)_, Renton, Washington, USA, July 10-12, 2019
   * &nbsp;
@@ -163,6 +163,7 @@ security.
 [APPCACHE-SLIDES]:    papers/lee:appcache-slides.pdf
 [WARNINGBIRD-SLIDES]: papers/lee:warningbird-slides.pdf
 
+[LIBMPK-CODE]:    https://github.com/sslab-gatech/libmpk
 [QSYM-CODE]:    https://github.com/sslab-gatech/qsym
 [TSGX-CODE]:    https://github.com/sslab-gatech/t-sgx
 [DRK-CODE]:     https://github.com/sslab-gatech/DrK
