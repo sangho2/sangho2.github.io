@@ -14,7 +14,7 @@ security.
 
 ## Contacts
 * [Sangho.Lee@microsoft.com][MS-EMAIL] | [sangho.lee.cs@gmail.com][GMAIL]
-* Room 2111, Building 99, 14820 NE 36th St, Redmond, WA 98052
+* Room 2739, Building 99, 14820 NE 36th St, Redmond, WA 98052
 
 ## Selected Publications
 ### 2019
