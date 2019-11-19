@@ -18,7 +18,7 @@ security.
 
 ## Selected Publications
 ### 2019
-* __All Your Clicks Belong to Me: Investigating Click Interception on the Web__ \[[paper][OBSERVER]\]
+* __All Your Clicks Belong to Me: Investigating Click Interception on the Web__ \[[paper][OBSERVER]\] | [code][OBSERVER-CODE]\]
   * Mingxue Zhang, Wei Meng, __Sangho Lee__, Byoungyoung Lee, and Xinyu Xing
   * _28th USENIX Security Symposium (__Security 2019__)_, Santa Clara, California, USA, August 14-16, 2019
   * &nbsp;
@@ -101,6 +101,7 @@ security.
 ## Professional Services
 ### Program Committee Member
 * Annual Computer Security Applications Conference (ACSAC): [2019][ACSAC19], [2018][ACSAC18], [2017][ACSAC17], [2016][ACSAC16]
+* ACM SIGOPS Asia-Pacific Workshop on Systems (APSys): 2020
 * ACM Asia Conference on Information, Computer and Communications Security (ASIACCS): [2018][ASIACCS18]
 * World Conference on Information Security Applications (WISA): [2018][WISA]
 
@@ -163,12 +164,13 @@ security.
 [APPCACHE-SLIDES]:    papers/lee:appcache-slides.pdf
 [WARNINGBIRD-SLIDES]: papers/lee:warningbird-slides.pdf
 
-[LIBMPK-CODE]:    https://github.com/sslab-gatech/libmpk
-[QSYM-CODE]:    https://github.com/sslab-gatech/qsym
-[TSGX-CODE]:    https://github.com/sslab-gatech/t-sgx
-[DRK-CODE]:     https://github.com/sslab-gatech/DrK
-[GPU-CODE]:     https://github.com/sangho2/gpu-uninit-mem
-[BSHADOW-CODE]: https://github.com/sslab-gatech/branch-shadowing
+[OBSERVER-CODE]: https://github.com/cuhk-seclab/observer
+[LIBMPK-CODE]:   https://github.com/sslab-gatech/libmpk
+[QSYM-CODE]:     https://github.com/sslab-gatech/qsym
+[TSGX-CODE]:     https://github.com/sslab-gatech/t-sgx
+[DRK-CODE]:      https://github.com/sslab-gatech/DrK
+[GPU-CODE]:      https://github.com/sangho2/gpu-uninit-mem
+[BSHADOW-CODE]:  https://github.com/sslab-gatech/branch-shadowing
 
 [BSHADOW-DEMO]:  https://www.youtube.com/watch?v=jf9PanlF374
 [APPCACHE-DEMO]: https://www.youtube.com/watch?v=hgYwRsWq2y0
