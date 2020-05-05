@@ -100,8 +100,8 @@ security.
 
 ## Professional Services
 ### Program Committee Member
-* Annual Computer Security Applications Conference (ACSAC): [2019][ACSAC19], [2018][ACSAC18], [2017][ACSAC17], [2016][ACSAC16]
-* ACM SIGOPS Asia-Pacific Workshop on Systems (APSys): 2020
+* Annual Computer Security Applications Conference (ACSAC): [2020][ACSAC20], [2019][ACSAC19], [2018][ACSAC18], [2017][ACSAC17], [2016][ACSAC16]
+* ACM SIGOPS Asia-Pacific Workshop on Systems (APSys): [2020][APSYS20]
 * ACM Asia Conference on Information, Computer and Communications Security (ASIACCS): [2018][ASIACCS18]
 * World Conference on Information Security Applications (WISA): [2018][WISA]
 
@@ -126,12 +126,14 @@ security.
 [GATECH-EMAIL]: mailto:sangho@gatech.edu
 [GMAIL]:        mailto:sangho.lee.cs@gmail.com
 
+[ACSAC20]:   https://www.acsac.org/2020/
 [ACSAC19]:   https://www.acsac.org/2019/
 [ACSAC18]:   https://www.acsac.org/2018/
 [ACSAC17]:   https://www.acsac.org/2017/
 [ACSAC16]:   https://www.acsac.org/2016/
 [ASIACCS18]: http://asiaccs2018.org/
 [WISA]:      http://wisa.or.kr/
+[APSYS20]:   https://ap-sys.org/apsys2020
 
 [OBSERVER]:    https://www.microsoft.com/en-us/research/uploads/prod/2019/03/zhang-observer.pdf
 [LIBMPK]:      https://www.microsoft.com/en-us/research/uploads/prod/2019/05/park-libmpk.pdf
