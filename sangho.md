@@ -17,6 +17,11 @@ security.
 * Room 2739, Building 99, 14820 NE 36th St, Redmond, WA 98052
 
 ## Selected Publications
+### 2021
+* __KARD: Lightweight Data Race Detection with Per-Thread Memory Protection__ (to appear)
+  * Adil Ahmad, __Sangho Lee__, Pedro Fonseca, and Byoungyoung Lee
+  * _26th International Conference on Architectural Support for Programming Languages and Operating Systems (__ASPLOS 2021__)_, Virtual, April 19-23, 2021
+
 ### 2019
 * __All Your Clicks Belong to Me: Investigating Click Interception on the Web__ \[[paper][OBSERVER] | [code][OBSERVER-CODE]\]
   * Mingxue Zhang, Wei Meng, __Sangho Lee__, Byoungyoung Lee, and Xinyu Xing
@@ -100,6 +105,7 @@ security.
 
 ## Professional Services
 ### Program Committee Member
+* USENIX Security Symposium (Security): [2021][SECURITY21]
 * Annual Computer Security Applications Conference (ACSAC): [2020][ACSAC20], [2019][ACSAC19], [2018][ACSAC18], [2017][ACSAC17], [2016][ACSAC16]
 * ACM SIGOPS Asia-Pacific Workshop on Systems (APSys): [2020][APSYS20]
 * ACM Asia Conference on Information, Computer and Communications Security (ASIACCS): [2018][ASIACCS18]
@@ -126,14 +132,15 @@ security.
 [GATECH-EMAIL]: mailto:sangho@gatech.edu
 [GMAIL]:        mailto:sangho.lee.cs@gmail.com
 
-[ACSAC20]:   https://www.acsac.org/2020/
-[ACSAC19]:   https://www.acsac.org/2019/
-[ACSAC18]:   https://www.acsac.org/2018/
-[ACSAC17]:   https://www.acsac.org/2017/
-[ACSAC16]:   https://www.acsac.org/2016/
-[ASIACCS18]: http://asiaccs2018.org/
-[WISA]:      http://wisa.or.kr/
-[APSYS20]:   https://ap-sys.org/apsys2020
+[ACSAC20]:    https://www.acsac.org/2020/
+[ACSAC19]:    https://www.acsac.org/2019/
+[ACSAC18]:    https://www.acsac.org/2018/
+[ACSAC17]:    https://www.acsac.org/2017/
+[ACSAC16]:    https://www.acsac.org/2016/
+[ASIACCS18]:  http://asiaccs2018.org/
+[WISA]:       http://wisa.or.kr/
+[APSYS20]:    https://ap-sys.org/apsys2020
+[SECURITY21]: https://www.usenix.org/conference/usenixsecurity21
 
 [OBSERVER]:    https://www.microsoft.com/en-us/research/uploads/prod/2019/03/zhang-observer.pdf
 [LIBMPK]:      https://www.microsoft.com/en-us/research/uploads/prod/2019/05/park-libmpk.pdf
