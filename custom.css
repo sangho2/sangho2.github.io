@@ -1,1 +1,2 @@
-ul li{list-style-type:none}
+ol ul li{list-style-type:none; margin: 0; margin-left:-2em; margin-top:-1em} li:last-child { margin-bottom:1em }
+ul li{list-style-type:none; margin-left:-1em; }
